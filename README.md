@@ -16,12 +16,6 @@ If it can be tested, I'm probably breaking it in a controlled environment.
 - Red team ops in realistic, self-hosted environments
 
 ---
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h3raklez&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3raklez&layout=compact&hide_border=true&theme=dark)
-
----
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/f-gonzalezl/)
